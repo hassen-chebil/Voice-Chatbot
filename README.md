@@ -11,5 +11,5 @@ A voice Chatbot that uses Ozeroute API for getting details about transport metho
     - ```pip install --find-links=./pyAudioFix PyAudio --no-cache-dir```
 
 ## Contact
-   - Hassen Chebil;
+   - Hassen Chebil
      - chebilhassen7@gmail.com
