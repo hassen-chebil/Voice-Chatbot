@@ -1,4 +1,4 @@
-from chatOptions import loc, tim, desc, cor, mus, ozeroute, langChange,quest
+from chatOptions import loc, tim, desc, cor, mus, ozeroute, langChange
 from Ozeroute.ozeroute import getOzeroute
 from temperature import tempFR
 from voiceSetup import Speaker
@@ -64,7 +64,7 @@ def french(speaker, qu):
         if command in desc:
             descriptionLieu(speaker, qu)
 
-        elif command.lower() in quest:
+        elif "question" in command.lower() :
             faq(speaker , qu)
 
     

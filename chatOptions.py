@@ -5,5 +5,5 @@ cor= ["corona", "Corona","coronavirus","Coronavirus","tell me about corona", "si
 mus=["music listening", 'I want to listen a music' ,'i want to listen a music','i want to listen music',"je veux écouter une musique","Je veux écouter une musique","écouter une musique","listen to music","Listen to music","listen a music","Listen a music" ,"music","Music","musique","Musique", "écouter de la musique"]
 ozeroute = ["trouver trajectoire", "trajectoire", "trajectory", "trouver la meilleure trajectoire", "trouver le meilleur trajectoire", "find best trajectory","best trajectory" ,"finding best trajectory", "trouver chemin", "ozeroute", "réserver transport", "find way", "book transport", "transport reservation", "find the best trajectory"]
 langChange = ["changer langue", "langue", "changer language", "change language", "language"]
-quest=["foire aux questions","foire questions","question","questions","foire au question"]
+#quest=["foire aux questions","foire questions","question","questions","foire au question","j'ai une question"]
 #quest_type=["solutions de transfert aux aéroports","transfert","solutions de transfert","solutions de transfert"]
